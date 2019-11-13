@@ -37,7 +37,7 @@ export default {
 }
 .box {
   width: 600px;
-  padding: 20px 20px;
+  padding: 20px 21px;
   margin: 0 auto;
   border: 1px solid #ccc;
 }
